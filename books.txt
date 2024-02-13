@@ -1,0 +1,48 @@
+Python Programming Basics,John Doe,2020,200
+Data Structures and Algorithms in Python,Jane Smith,2019,350
+Introduction to Machine Learning,Michael Johnson,2021,280
+Artificial Intelligence: A Modern Approach,Peter Brown,2018,900
+Java Fundamentals,Emily Williams,2020,300
+C++ Programming: From Problem Analysis to Program Design,David Martin,2017,450
+Database Systems: Design, Implementation, & Management,Chris Wilson,2019,600
+Computer Networking: A Top-Down Approach,Steven Taylor,2018,400
+Operating System Concepts,Andrew Anderson,2020,700
+Introduction to Algorithms,Michelle Lee,2016,1000
+The C Programming Language,Brian Moore,2015,300
+Discrete Mathematics and Its Applications,Karen Davis,2019,500
+Computer Organization and Design,Mark Robinson,2018,800
+Programming in Scala,Scott Thompson,2020,400
+Software Engineering: A Practitioner's Approach,James Harris,2017,600
+JavaScript: The Good Parts,Daniel White,2019,300
+Deep Learning,Ian Clark,2018,400
+Computer Graphics: Principles and Practice,Jason Martinez,2016,700
+Data Mining: Concepts and Techniques,Nicole Adams,2020,550
+Operating Systems: Three Easy Pieces,Eric Miller,2019,350
+Clean Code: A Handbook of Agile Software Craftsmanship,Angela Brown,2017,250
+Head First Design Patterns,Matthew Young,2018,400
+Introduction to the Theory of Computation,Lauren Moore,2015,600
+Computer Networks: A Systems Approach,Justin Lee,2019,550
+Beginning Programming with Java For Dummies,Rachel King,2016,350
+Effective Java,Rebecca Roberts,2017,300
+Pattern Recognition and Machine Learning,Nathan Clark,2018,700
+Algorithms Unlocked,Laura Hill,2021,250
+Data Structures and Algorithm Analysis in C,Patrick Lewis,2019,400
+Principles of Compiler Design,Kimberly Hall,2016,500
+The Mythical Man-Month,Joseph Hernandez,2017,350
+Artificial Intelligence for Humans,Anna Garcia,2018,300
+Design Patterns: Elements of Reusable Object-Oriented Software,Robert White,2020,450
+Introduction to Data Mining,Pamela Martinez,2015,600
+Cryptography and Network Security,Charles Thompson,2019,400
+Computer Security: Principles and Practice,Sarah Taylor,2018,550
+Modern Operating Systems,Adam Young,2017,800
+The Art of Computer Programming,Grace Robinson,2016,1000
+Machine Learning: A Probabilistic Perspective,Natalie King,2021,350
+Programming Interviews Exposed,Eric Johnson,2019,300
+Introduction to the Design and Analysis of Algorithms,Joshua Brown,2018,450
+Clean Architecture: A Craftsman's Guide to Software Structure and Design,Luke Williams,2020,500
+The Linux Programming Interface,Louis Wilson,2017,900
+Cracking the Coding Interview,Kelly Davis,2016,400
+Data Science for Business,Lisa Martin,2015,600
+Computer Vision: Algorithms and Applications,Michelle Hall,2019,350
+Software Engineering,Matthew Thomas,2018,400
+The Pragmatic Programmer,David Allen,2020,300kitap,yaza,2020,200

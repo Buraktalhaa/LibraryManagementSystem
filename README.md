@@ -25,6 +25,7 @@ Contributions to this project are welcome. If you wish to contribute, please sta
 
 ## Assignment Requirements
 
-You can download the PDF document containing the assignment requirements from [here](link_to_the_pdf_document).
+You can download the PDF document containing the assignment requirements from [Assignment Requirements PDF](https://github.com/Buraktalhaa/LibraryManagementSystem/blob/707911a287cc588ad343e5b53767142549f16965/library_management_system.pdf)
+.
 
 
